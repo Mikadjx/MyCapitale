@@ -1,5 +1,7 @@
 # MyCapitale
 
+https://www.youtube.com/watch?v=dhguXv3vRIk
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.8.
 
 ## Development server
